@@ -1,6 +1,7 @@
 {
     "token": "1234.abcd",
     "timezone": "GMT",
+    "sync_minute": 5,
     "channel_ids": [
         "1234567890123456789"
     ]
