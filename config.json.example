@@ -1,0 +1,7 @@
+{
+    "token": "1234.abcd",
+    "timezone": "GMT",
+    "channel_ids": [
+        "1234567890123456789"
+    ]
+}
